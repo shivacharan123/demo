@@ -1,7 +1,5 @@
 # demo
 
-Here’s a **brief, clean, GitHub-ready README** for your **LangChain + Streamlit chatbot** project.
-
 ---
 
 # 🦙 LangChain Chatbot with LLaMA 2 (Streamlit)
